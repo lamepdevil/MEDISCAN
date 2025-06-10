@@ -1,0 +1,7 @@
+kivy
+pytesseract
+fastapi
+uvicorn
+requests
+matplotlib
+pillow
