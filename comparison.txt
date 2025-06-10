@@ -1,0 +1,123 @@
+Comparison between -: MediScan, Google lens , camscannerOCR , Practo , Lybrate , DocScan Ai .
+
+
+🧠 Medical Focus
+✅ MediScan: Specifically tailored for reading prescriptions, medical reports, and generating charts from healthcare data.
+❌ Google Lens: General-purpose recognition with no healthcare optimization.
+⚠️ CamScanner OCR: Limited support, not tuned for medical terms.
+✅ Practo: Allows manual entry for medical data.
+✅ Lybrate: Supports medical inputs manually.
+✅ DocScan AI: Designed for medical use.
+
+
+---
+
+🔍 OCR (Text Recognition)
+✅ MediScan: Uses Tesseract-powered OCR for reliable text extraction.
+✅ Google Lens: Advanced Google OCR built-in.
+✅ CamScanner OCR: Built-in OCR engine.
+❌ Practo: No OCR functionality.
+❌ Lybrate: No OCR functionality.
+✅ DocScan AI: Includes advanced OCR module.
+
+
+---
+
+📊 Visual Chart Output
+✅ MediScan: Uses Matplotlib and Pillow to generate clear, medical-style charts.
+❌ Google Lens: No charting features.
+❌ CamScanner OCR: No charting capability.
+✅ Practo: Allows manually input charts.
+✅ Lybrate: Supports visual charting (manual).
+✅ DocScan AI: Offers AI-generated charts.
+
+
+---
+
+📤 Offline Support
+✅ MediScan: Fully functional offline – no internet required.
+❌ Google Lens: Requires an internet connection.
+⚠️ CamScanner: Some features limited offline.
+❌ Practo: Online-only functionality.
+❌ Lybrate: Needs internet.
+❌ DocScan AI: Cloud-based, online required.
+
+
+---
+
+💰 Free to Use
+✅ MediScan: Completely free and open-source.
+✅ Google Lens: Free.
+❌ CamScanner: Watermarks unless paid.
+✅ Practo: Free for users.
+✅ Lybrate: Free use.
+❌ DocScan AI: Paid-only service.
+
+
+---
+
+📦 Open Source
+✅ MediScan: 100% open source (Python + Kivy).
+❌ All others: Closed-source/proprietary.
+
+
+---
+
+🧩 Modular & Customizable
+✅ MediScan: Built to be modular – easily extendable via Python code.
+❌ Others: No customization support.
+
+
+---
+
+📸 Multi-image Support
+✅ MediScan: Handles multiple images with enhancement tools.
+✅ Google Lens: Supports multiple images.
+✅ CamScanner: Batch scanning supported.
+❌ Practo: No image input.
+❌ Lybrate: No image input.
+✅ DocScan AI: Supports multiple medical document uploads.
+
+
+---
+
+🌗 Theme Toggle (UI)
+✅ MediScan: Clean UI with dark/light theme toggle.
+❌ Google Lens: No theme settings.
+❌ CamScanner: Static UI.
+✅ Practo: Basic UI options.
+✅ Lybrate: Theme support.
+✅ DocScan AI: UI customization available.
+
+
+---
+
+⚙️ Cross-platform Build
+✅ MediScan: Android build via Buildozer (also works cross-platform).
+✅ Google Lens: Available across platforms.
+✅ CamScanner: Available on multiple platforms.
+✅ Practo: Works on Android/iOS.
+✅ Lybrate: Cross-platform.
+✅ DocScan AI: Available on major platforms.
+
+
+---
+
+🖼️ Preprocessing (Image Cleaning)
+✅ MediScan: OpenCV-powered image cleaning, resizing, and enhancement.
+✅ Google Lens: Basic auto-enhance.
+✅ CamScanner: Includes basic cleanup.
+❌ Practo: No image processing.
+❌ Lybrate: No image processing.
+✅ DocScan AI: Includes image cleanup and enhancements.
+
+
+---
+
+🔐 Privacy & Local Use
+✅ MediScan: All processing happens locally – no data sent online.
+❌ Google Lens: Sends data to Google servers.
+❌ CamScanner: Cloud-based processing.
+✅ Practo: Local data entry.
+✅ Lybrate: Secure storage but online.
+❌ DocScan AI: Fully cloud-based.
